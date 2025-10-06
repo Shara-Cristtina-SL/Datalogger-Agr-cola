@@ -104,13 +104,8 @@ python-periphery==2.4.1
 
 ## ▶️ Execução
 
-### 🔹 Simulação (no PC)
 
-```bash
-python main.py
-```
-
-### 🔹 Versão Real (na Labrador 32)
+### 🔹 Na Labrador 32
 
 Copie todos os arquivos para o sistema de arquivos da Labrador e execute:
 
