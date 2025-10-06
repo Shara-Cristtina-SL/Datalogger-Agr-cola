@@ -1,4 +1,4 @@
-
+---
 
 ```markdown
 # 🌾 Datalogger Agrícola — Plataforma Labrador 32
