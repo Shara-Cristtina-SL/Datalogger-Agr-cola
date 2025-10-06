@@ -172,6 +172,7 @@ def get_log_file():
 * Registro de dados experimentais em campo 🧪
 
 ---
+Relatório: https://docs.google.com/document/d/1TFyucII0hiNXhDzXz-jxM3gXuK-OxoGhtvQIS96Be6I/edit?usp=sharing
 
 
 
