@@ -1,9 +1,3 @@
----
-
-```markdown
-# 🌾 Datalogger Agrícola — Plataforma Labrador 32
-
-Projeto desenvolvido como parte do desafio **Caninos Loucos - Labrador 32**, com o objetivo de criar um **datalogger multifuncional** capaz de monitorar variáveis ambientais relacionadas à agricultura de precisão, utilizando sensores conectados via barramento **I²C** e armazenamento em **cartão microSD**.
 
 ---
 
