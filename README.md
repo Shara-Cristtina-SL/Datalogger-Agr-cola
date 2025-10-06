@@ -173,6 +173,12 @@ def get_log_file():
 
 ---
 Relatório: https://docs.google.com/document/d/1TFyucII0hiNXhDzXz-jxM3gXuK-OxoGhtvQIS96Be6I/edit?usp=sharing
+Referências: 
+https://forum.caninosloucos.org/uploads/default/original/1X/477e88a19cecf7db208240bbf3ef6cfdbcf350a0.png
+
+https://labiras.notion.site/Labrador-Caninos-Loucos-27667aa6595380238b43deff63e4f6d2
+
+https://github.com/alvarobs23/labrador-32---EMBARCATECH
 
 
 
